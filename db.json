@@ -1,6 +1,9 @@
 {
   "burgers": [
     {
+      "codedBy": "Romain Morvant"
+    },
+    {
       "id": 0,
       "name": "Tribute Burger",
       "restaurant": "Honest Burgers",
